@@ -30,7 +30,7 @@ config = {
 # como obter a chave https://developers.google.com/youtube/v3/getting-started?hl=pt-br
   # KEYs da API v3 do YouTube
   "youtube_keys": [
-    "AIzaSyCThAQC32lkxUQpERw6Zp5JXFLsjp930E0",
+    # "key 1",
     # "key 2",
     # "key 3",
     
